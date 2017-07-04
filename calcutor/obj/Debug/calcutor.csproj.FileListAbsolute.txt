@@ -1,0 +1,9 @@
+C:\Users\SALEM.7\Desktop\C# PROJ\calcutor\calcutor\bin\Debug\calcutor.exe.config
+C:\Users\SALEM.7\Desktop\C# PROJ\calcutor\calcutor\bin\Debug\calcutor.exe
+C:\Users\SALEM.7\Desktop\C# PROJ\calcutor\calcutor\bin\Debug\calcutor.pdb
+C:\Users\SALEM.7\Desktop\C# PROJ\calcutor\calcutor\obj\Debug\calcutor.csprojResolveAssemblyReference.cache
+C:\Users\SALEM.7\Desktop\C# PROJ\calcutor\calcutor\obj\Debug\calcutor.Form1.resources
+C:\Users\SALEM.7\Desktop\C# PROJ\calcutor\calcutor\obj\Debug\calcutor.Properties.Resources.resources
+C:\Users\SALEM.7\Desktop\C# PROJ\calcutor\calcutor\obj\Debug\calcutor.csproj.GenerateResource.Cache
+C:\Users\SALEM.7\Desktop\C# PROJ\calcutor\calcutor\obj\Debug\calcutor.exe
+C:\Users\SALEM.7\Desktop\C# PROJ\calcutor\calcutor\obj\Debug\calcutor.pdb
